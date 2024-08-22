@@ -1,0 +1,9 @@
+a{
+    text-decoration: none;
+    color:darkgreen;
+    font-weight: bold;
+    font-size: medium;
+}
+a:hover{
+    color:rgb(99, 226, 99);
+}
